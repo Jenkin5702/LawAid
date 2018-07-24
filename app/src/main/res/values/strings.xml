@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LawAid</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_setting">设置</string>
+    <string name="homepage">首页</string>
+    <string name="require">咨询</string>
+    <string name="practice">实践</string>
+    <string name="me">我的</string>
+</resources>
